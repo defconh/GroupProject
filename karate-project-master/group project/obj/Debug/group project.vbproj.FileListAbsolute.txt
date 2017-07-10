@@ -1,0 +1,54 @@
+E:\school\advanced vb\group project\group project\bin\Debug\group project.exe.config
+E:\school\advanced vb\group project\group project\bin\Debug\karate.mdf
+E:\school\advanced vb\group project\group project\bin\Debug\karate_log.ldf
+E:\school\advanced vb\group project\group project\bin\Debug\group project.exe
+E:\school\advanced vb\group project\group project\bin\Debug\group project.pdb
+E:\school\advanced vb\group project\group project\bin\Debug\group project.xml
+E:\school\advanced vb\group project\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+E:\school\advanced vb\group project\group project\obj\Debug\group_project.Form1.resources
+E:\school\advanced vb\group project\group project\obj\Debug\group_project.Resources.resources
+E:\school\advanced vb\group project\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
+E:\school\advanced vb\group project\group project\obj\Debug\group project.exe
+E:\school\advanced vb\group project\group project\obj\Debug\group project.xml
+E:\school\advanced vb\group project\group project\obj\Debug\group project.pdb
+C:\Users\Darkrious\Desktop\karate-project-master\group project\bin\Debug\group project.exe.config
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group project.exe
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group project.xml
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group project.pdb
+C:\Users\Darkrious\Desktop\karate-project-master\group project\bin\Debug\karate.mdf
+C:\Users\Darkrious\Desktop\karate-project-master\group project\bin\Debug\karate_log.ldf
+C:\Users\Darkrious\Desktop\karate-project-master\group project\bin\Debug\group project.exe
+C:\Users\Darkrious\Desktop\karate-project-master\group project\bin\Debug\group project.pdb
+C:\Users\Darkrious\Desktop\karate-project-master\group project\bin\Debug\group project.xml
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group_project.Resources.resources
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
+C:\Users\Darkrious\Desktop\karate-project-master\group project\obj\Debug\group_project.MemberDateForm.resources
+C:\Users\Devin\Desktop\karate-project-master\group project\bin\Debug\karate.mdf
+C:\Users\Devin\Desktop\karate-project-master\group project\bin\Debug\karate_log.ldf
+C:\Users\Devin\Desktop\karate-project-master\group project\bin\Debug\group project.exe.config
+C:\Users\Devin\Desktop\karate-project-master\group project\bin\Debug\group project.exe
+C:\Users\Devin\Desktop\karate-project-master\group project\bin\Debug\group project.pdb
+C:\Users\Devin\Desktop\karate-project-master\group project\bin\Debug\group project.xml
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group_project.MemberDateForm.resources
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group_project.Resources.resources
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group project.exe
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group project.xml
+C:\Users\Devin\Desktop\karate-project-master\group project\obj\Debug\group project.pdb
+C:\Users\hwramsey\Downloads\karate-project-master\group project\bin\Debug\group project.exe.config
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group project.exe
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group project.xml
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group project.pdb
+C:\Users\hwramsey\Downloads\karate-project-master\group project\bin\Debug\karate.mdf
+C:\Users\hwramsey\Downloads\karate-project-master\group project\bin\Debug\karate_log.ldf
+C:\Users\hwramsey\Downloads\karate-project-master\group project\bin\Debug\group project.exe
+C:\Users\hwramsey\Downloads\karate-project-master\group project\bin\Debug\group project.pdb
+C:\Users\hwramsey\Downloads\karate-project-master\group project\bin\Debug\group project.xml
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_project.MemberDateForm.resources
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_project.Resources.resources
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_project.AllMembersForm.resources
+C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_project.StartupForm.resources
