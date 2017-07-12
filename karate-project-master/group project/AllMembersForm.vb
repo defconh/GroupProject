@@ -9,7 +9,15 @@
 
     End Sub
 
-    Private Sub ToolStripButton1_Click(sender As Object, e As EventArgs) Handles ToolStripButton1.Click
+    Private Sub ToolStripButton1_Click(sender As Object, e As EventArgs) Handles btnGo.Click
+        Try
+            MembersBindingSource.Filter = txtSearch.Text
+        Catch ex As Exception
+            MessageBox.Show("Please use proper formatting.")
+        End Try
+    End Sub
+
+    Private Sub ToolStripTextBox1_Click(sender As Object, e As EventArgs) Handles txtSearch.Click
 
     End Sub
 End Class

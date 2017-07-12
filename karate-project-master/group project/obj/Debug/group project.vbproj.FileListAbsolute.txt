@@ -52,3 +52,18 @@ C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_
 C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
 C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_project.AllMembersForm.resources
 C:\Users\hwramsey\Downloads\karate-project-master\group project\obj\Debug\group_project.StartupForm.resources
+G:\karate-project-master\group project\bin\Debug\karate.mdf
+G:\karate-project-master\group project\bin\Debug\karate_log.ldf
+G:\karate-project-master\group project\bin\Debug\group project.exe.config
+G:\karate-project-master\group project\bin\Debug\group project.exe
+G:\karate-project-master\group project\bin\Debug\group project.pdb
+G:\karate-project-master\group project\bin\Debug\group project.xml
+G:\karate-project-master\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+G:\karate-project-master\group project\obj\Debug\group_project.AllMembersForm.resources
+G:\karate-project-master\group project\obj\Debug\group_project.MemberDateForm.resources
+G:\karate-project-master\group project\obj\Debug\group_project.Resources.resources
+G:\karate-project-master\group project\obj\Debug\group_project.StartupForm.resources
+G:\karate-project-master\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
+G:\karate-project-master\group project\obj\Debug\group project.exe
+G:\karate-project-master\group project\obj\Debug\group project.xml
+G:\karate-project-master\group project\obj\Debug\group project.pdb
